@@ -1,0 +1,31 @@
+.Die__icon {
+	font-size: 250px;
+	color: #7e57c2;
+}
+
+.Die__rolling {
+	animation: shake 1s;
+}
+
+@keyframes shake {
+	10%,
+	90% {
+		transform: translate3d(-1px, 0, 0) rotate(3deg);
+	}
+
+	20%,
+	80% {
+		transform: translate3d(2px, 2px, -10px) rotate(-3deg);
+	}
+
+	30%,
+	50%,
+	70% {
+		transform: translate3d(-4px, 2px, 0) rotate(2deg);
+	}
+
+	40%,
+	60% {
+		transform: translate3d(4px, 0, 2px) rotate(-2deg);
+	}
+}
