@@ -2,7 +2,7 @@
 
 Rolls a pair of dice.
 
-The project was created for [The Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/) by [Colt Steele](https://github.com/Colt)
+The project was created for [The Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/) by [Colt Steele](https://github.com/Colt).
 
 ## 📂 Local Installation
 
